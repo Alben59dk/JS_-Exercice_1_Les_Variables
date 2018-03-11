@@ -1,0 +1,31 @@
+Exercice Pratique “ Les Variables “
+
+
+
+
+<!DOCTYPE html>
+<html>
+ <head>
+   <meta charset="utf-8">
+   <title>
+     Les variables en JavaScript
+   </title>
+ </head>
+ <body>
+   <script>
+var firstName = ‘jean’
+var age = 24
+
+
+console.log(firstName)
+console.log(age)
+
+
+var firstName = Alexandre
+var age = 41
+console.log(firstName)
+console.log(age)
+
+   </script>
+ </body>
+</html>
